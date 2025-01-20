@@ -4,7 +4,7 @@ clc;
 clear all;
 close all;
 %importing image
-I = imread('https://www.princeton.edu/news/2022/02/02/what-your-dogs-lifespan-you-might-be-surprised');
+I = imread('https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*');
 %conversion of original image to grayscale image
 R=I(:,:,1);
 G=I(:,:,2);
