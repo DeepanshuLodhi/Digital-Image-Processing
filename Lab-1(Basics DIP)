@@ -4,7 +4,7 @@ clc;
 clear all;
 close all;
 %importing image
-I = imread('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZlf5lc5tX-0gY-y94pGS0mQdL-D0lCH2OQ&s');
+I = imread('https://www.goodhousekeeping.com/life/pets/g4531/cutest-dog-breeds/');
 %conversion of original image to grayscale image
 R=I(:,:,1);
 G=I(:,:,2);
