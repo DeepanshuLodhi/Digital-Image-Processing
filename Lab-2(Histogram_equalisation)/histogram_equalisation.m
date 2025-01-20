@@ -1,5 +1,5 @@
 %Histogram Equalisation
-%Created by Jyotiraditya Bhos
+%Created by Deepanshu Lodhi
 
 clc;
 clear all;
