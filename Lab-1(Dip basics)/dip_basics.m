@@ -1,10 +1,10 @@
 %Digital Image Processing
-%Created by Jyotiraditya Bhos
+%Created by Deepanshu Lodhi
 clc;
 clear all;
 close all;
 %importing image
-I = imread('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZlf5lc5tX-0gY-y94pGS0mQdL-D0lCH2OQ&s');
+I = imread('https://www.princeton.edu/news/2022/02/02/what-your-dogs-lifespan-you-might-be-surprised');
 %conversion of original image to grayscale image
 R=I(:,:,1);
 G=I(:,:,2);
